@@ -120,6 +120,7 @@
 - [BOJ_17269 - 이름궁합 테스트](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/BOJ_17269.java)
 - [BOJ_17389 - 보너스 점수](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/BOJ_17389.java)
 - [BOJ_2747 - 피보나치 수](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/BOJ_2747.java)
+- [BOJ_1074 - Z](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/BOJ_1074.java)
 
 <br/>
 
